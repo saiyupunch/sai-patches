@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/saiyupunch/sai-patches/compare/v1.0.0...v1.1.0) (2026-11-07)
+
+### ✨ New Features
+
+* support slot. v2.1.0 ([4024a25](https://github.com/saiyupunch/sai-patches/commit/4024a25e2b0db8596cc2a1bb4d7681cde2328877))
+
 ## 1.0.0 (2026-11-07)
 
 ### ✨ New Features

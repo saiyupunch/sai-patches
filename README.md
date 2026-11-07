@@ -8,7 +8,7 @@ Unofficial and untested on a real device. Not affiliated with Morphe or the slot
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/saiyupunch/sai-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.1.0](https://github.com/saiyupunch/sai-patches/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 slot.&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -17,8 +17,8 @@ Unofficial and untested on a real device. Not affiliated with Morphe or the slot
 
 **🎯 Supported versions:**
 
-| 2.0.0 |
-| :---: |
+| 2.1.0 | 2.0.0 |
+| :---: | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
