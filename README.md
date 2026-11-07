@@ -33,7 +33,7 @@ The single patch, **Android 11 support**, sets `android:minSdkVersion="30"` in A
 ## Known limitations
 - The Bluetooth status icon needs the Android 12-only BLUETOOTH_CONNECT permission, so it stays hidden on Android 11.
 - The app's native emulator cores were built against API 31. If one uses a function Android 11 lacks, the app may crash when that core loads.
-- Only the release APK (v2.0.0) is targeted. Edit `Constants.kt` if its versionName differs.
+- Targets slot. v2.1.0 (and v2.0.0). Edit `Constants.kt` if a release reports a different versionName.
 
 ## Build
 Needs Java 17+ and a GitHub token with `read:packages` (Morphe's plugin is on GitHub Packages).

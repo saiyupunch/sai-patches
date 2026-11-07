@@ -15,11 +15,15 @@ object Constants {
         apkFileType = ApkFileType.APK,
         appIconColor = 0x1E2327,
         targets = listOf(
-            // Release konkr-v2.0.0. The version string is taken from the release tag;
-            // adjust it if the APK reports a different versionName.
+            // Release v2.1.0 (versionName "2.1.0", versionCode 313): latest.
+            AppTarget(
+                version = "2.1.0",
+                // minSdk is the lowest *device* API level once patched: Android 11 = API 30.
+                minSdk = 30
+            ),
+            // Release konkr-v2.0.0 (versionName "2.0.0").
             AppTarget(
                 version = "2.0.0",
-                // minSdk is the lowest *device* API level once patched: Android 11 = API 30.
                 minSdk = 30
             ),
             // Newer releases are expected to work, but are untested.
