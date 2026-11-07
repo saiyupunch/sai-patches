@@ -8,10 +8,23 @@ Unofficial and untested on a real device. Not affiliated with Morphe or the slot
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/saiyupunch/morphe-patches-sai/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 slot.&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release. -->
+**Package name:** `fyi.slot.konkr`
 
-#### The patch list is generated automatically when a release is created.
+**🎯 Supported versions:**
+
+| 2.0.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Android 11 support](#android-11-support) | Lowers the minimum Android version from 12 (API 31) to 11 (API 30) so the app can be installed on Android 11. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
