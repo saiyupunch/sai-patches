@@ -3,10 +3,10 @@ group = "app.template"
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "slot. Android 11 patches"
+        description = "Lets slot. for Android (fyi.slot.konkr) install on Android 11"
+        source = "https://github.com/YOUR-USERNAME/slot-android11-morphe-patches"
+        author = "YOUR-USERNAME"
         contact = "na"
         website = "na"
         license = "GPLv3"
