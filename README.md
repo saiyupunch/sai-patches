@@ -5,8 +5,17 @@ install on **Android 11** by lowering `minSdkVersion` from 31 to 30.
 
 Unofficial and untested on a real device. Not affiliated with Morphe or the slot. author.
 
-## Patch
-- **Android 11 support**: sets `android:minSdkVersion="30"` in AndroidManifest.xml.
+## 🩹 Patches list
+
+<!-- PATCHES_START EXPANDED -->
+
+<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release. -->
+
+#### The patch list is generated automatically when a release is created.
+
+<!-- PATCHES_END -->
+
+The single patch, **Android 11 support**, sets `android:minSdkVersion="30"` in AndroidManifest.xml.
 
 ## Known limitations
 - The Bluetooth status icon needs the Android 12-only BLUETOOTH_CONNECT permission, so it stays hidden on Android 11.

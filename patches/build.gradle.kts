@@ -5,8 +5,8 @@ patches {
     about {
         name = "slot. Android 11 patches"
         description = "Lets slot. for Android (fyi.slot.konkr) install on Android 11"
-        source = "https://github.com/YOUR-USERNAME/slot-android11-morphe-patches"
-        author = "YOUR-USERNAME"
+        source = "https://github.com/saiyupunch/morphe-patches-sai"
+        author = "saiyupunch"
         contact = "na"
         website = "na"
         license = "GPLv3"
